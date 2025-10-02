@@ -1,99 +1,105 @@
-React Basics to Intermediate Projects
+# React Basics to Intermediate Projects
 
-This repository is a curated collection of React.js projects that cover a wide range of concepts from basic to intermediate level. It's ideal for beginners who are just starting with React as well as developers looking to solidify their understanding of core React topics.
+This repository is a curated collection of **React.js projects** covering a wide range of concepts from **basic to intermediate level**.  
+It’s ideal for beginners just starting with React as well as developers looking to solidify their understanding of **core React topics**.
 
-Contents
+---
 
-The repo includes multiple standalone mini-projects and example apps. Each folder is a separate project demonstrating a key concept in React.
+## 📚 Contents
 
-Topics Covered
+The repo includes multiple standalone mini-projects and example apps.  
+Each folder is a separate project demonstrating a key React concept.
 
-Basic Concepts
+---
 
-JSX & Rendering Elements
+## 📝 Topics Covered
 
-Components (Function & Class)
+### ✅ Basic Concepts
+- JSX & Rendering Elements  
+- Components (Function & Class)  
+- Props & State  
+- Event Handling  
+- Conditional Rendering  
+- Lists and Keys  
+- Forms and Controlled Components  
 
-Props & State
+### ⚡ Intermediate Concepts
+- Component Lifecycle (Class and Functional with Hooks)  
+- Hooks (`useState`, `useEffect`, `useRef`, `useContext`, etc.)  
+- Lifting State Up  
+- Context API  
+- React Router  
+- API Integration (Fetch / Axios)  
+- Custom Hooks  
+- Code Splitting & Lazy Loading  
+- Basic Performance Optimization (Memoization)  
+- Error Boundaries  
+- Handling Side Effects  
 
-Event Handling
+---
 
-Conditional Rendering
+## 📂 Project Structure
 
-Lists and Keys
+Each project lives in its own folder and contains:
+- `src/` (source code)  
+- `package.json` (isolated dependencies)  
 
-Forms and Controlled Components
+This allows you to run each project independently.
 
+---
 
-Intermediate Concepts
+## 🚀 Getting Started
 
-Component Lifecycle (Class and Functional with Hooks)
+1. **Clone the repository**
 
-Hooks (useState, useEffect, useRef, useContext, etc.)
-
-Lifting State Up
-
-Context API
-
-React Router
-
-API Integration with Fetch/Axios
-
-Custom Hooks
-
-Code Splitting and Lazy Loading
-
-Basic Performance Optimization (Memoization)
-
-Error Boundaries
-
-Handling Side Effects
-
-
-Project Structure
-
-
-
-Getting Started
-
-1. Clone the repository
-
-git clone https://github.com/Himanshu-Khairnar/react.git
-cd react-basics-to-intermediate
+   ```bash
+   git clone https://github.com/Himanshu-Khairnar/react.git
+   cd react-basics-to-intermediate
 
 
-2. Install dependencies
+2. **Install dependencies**
 
-npm install
+   ```bash
+   npm install
+   ```
 
+3. **Run any project**
+   Navigate to the desired project folder and run:
 
-3. Run any project Navigate to the desired folder and run:
+   ```bash
+   npm start
+   ```
 
-npm start
+> ⚠️ **Note:** Each project contains its own `package.json` file to keep dependencies isolated.
 
+---
 
+## 🔑 Prerequisites
 
-> Note: Each project contains its own package.json file to keep dependencies isolated.
+* Basic knowledge of **JavaScript (ES6)**
+* Familiarity with **HTML/CSS**
+* Installed **Node.js** and **npm**
 
+---
 
+## 🤝 Contributing
 
-Prerequisites
+Contributions are welcome! 🎉
+If you find bugs, improvements, or want to add more projects, feel free to **submit an issue** or a **pull request**.
 
-Basic knowledge of JavaScript and ES6
+---
 
-Familiarity with HTML/CSS
+## 📜 License
 
-Node.js and npm installed
+This project is licensed under the **MIT License**.
 
+---
 
-Contributing
+## ⭐ Support
 
-Feel free to submit issues or pull requests if you find any bugs or want to add more projects or improvements.
-
-License
-
-MIT License
+If you like this repository, don’t forget to **star ⭐ the repo** to support it!
 
 
 ---
+
 
